@@ -1,10 +1,5 @@
 
 
-<!-- Section A: Animated Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hqgD6bocRHhEjamBPA/giphy.gif" width="120" alt="Wave Greeting" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Snehit+Budati+%F0%9F%91%8B;AI+Systems+%26+Full-Stack+Developer;Building+production-ready+AI+systems" alt="Typing SVG" />
 </h1>

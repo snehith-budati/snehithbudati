@@ -1,107 +1,113 @@
 <!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snehithbudati&label=Profile%20Views&color=0e75b6&style=flat" alt="snehithbudati" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=snehith-budati&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Snehit+Budati+%F0%9F%91%8B;AI+%26+Full-Stack+Engineer;RAG+Pipelines+%7C+LLMs+%7C+Multilingual+NLP;Building+production-ready+AI+systems" alt="Typing SVG" />
-</div>
+<!-- Section A: Animated Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hqgD6bocRHhEjamBPA/giphy.gif" width="120" alt="Wave Greeting" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Snehit+Budati+%F0%9F%91%8B;AI+Systems+%26+Full-Stack+Developer;Building+production-ready+AI+systems" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <strong>Passionate about building low-latency, scalable AI systems and custom RAG pipelines.</strong>
+</p>
 
 ---
 
+<!-- Section B: About Me -->
 ## 🧠 About Me
 
-Final-year **Computer Science undergrad** at SRM University-AP, specializing in **AI systems** and **full-stack development**.
+I am a final-year **Computer Science undergraduate** at SRM University-AP, specializing in **AI systems** and **full-stack development**. I design and build production-ready AI pipelines, local LLM inference engines, multilingual NLP models, and high-performance REST APIs. 
 
-- 🤖 I build **RAG pipelines**, local **LLM inference** systems, and **multilingual NLP** models — without GPUs or paid APIs
-- 🔬 My mBART model outperformed mBERT by **44%** on low-resource Tamil/Telugu summarization
-- 🛠️ I've engineered systems with **7-stage retrieval**, semantic caching **<50ms**, and **94.6% OCR accuracy**
-- 📊 LeetCode grinder — **137 problems** solved and counting
-- 📫 Reach me: **snehith0315@gmail.com**
+*   🚀 **LLM Inference & RAG**: Built a voice-enabled, OTP-authenticated RAG chatbot running local LLMs (Phi3, Qwen, BitNet) with **sub-50ms** semantic caching and cross-encoder reranking.
+*   📊 **NLP & Transformers**: Fine-tuned 4 transformer models (mBART, mT5, IndicBART, BERT2BERT) on Tamil & Telugu text summarization—outperforming mBERT by **44%**.
+*   💻 **Competitive Programming**: LeetCode enthusiast with **137+ problems** solved ([snehith3899](https://leetcode.com/snehith3899)).
+*   💼 **Work Experience**: ML Engineering Intern at Edunet Foundation (IBM SkillsBuild), predicting used car prices with a multi-variable regression model (R² of 0.76).
 
 ---
 
+<!-- Section C: Tech Stack -->
 ## 🛠️ Tech Stack
 
-**Languages**
+### 🧠 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/ChromaDB-007ACC?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-00897B?style=for-the-badge" alt="RAG" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 💻 Frontend & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-00897B?style=for-the-badge&logo=googlecolab&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-0288D1?style=for-the-badge&logo=googlelens&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
+<!-- Section D: Social Media Links -->
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/snehithbudati" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-snehithbudati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/snehith-budati-77125b255" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/snehithbudati" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-snehithbudati-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://instagram.com/snehithbudati" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/snehith3899" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-snehith3899-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:snehith0315@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-snehith0315-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+---
 
+<!-- Section E: GitHub Stats -->
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehith-budati&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehith-budati&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehith-budati&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Section F: GitHub Trophies -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehithbudati&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=snehith-budati&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 PolicyHub AI Chatbot
-> React · Flask · ChromaDB · LLMs · Python
-
-OTP-authenticated, voice-enabled RAG chatbot for SRM University-AP with real-time switching between 3 local LLMs (Phi3, Qwen, BitNet) — **no GPU, no paid API.**
-- 7-stage retrieval pipeline · semantic caching **<50ms** · hallucination guard @ 0.42 confidence
-- Admin dashboard with per-model latency tracking, LCS-based diff engine & hybrid GLM-OCR at **94.6% accuracy**
-
----
-
-### 🌐 Multilingual Text Summarization — South Indian Languages
-> Python · HuggingFace Transformers
-
-Fine-tuned 4 transformer models (mBART, mT5, IndicBART, BERT2BERT) on Tamil & Telugu summarization.
-- mBART: **ROUGE-1: 0.56, BLEU: 0.25** — outperformed mBERT by **44%**
-- Trained under identical conditions (AdamW · FP16 · beam search) for a fair cross-architecture comparison
-
----
-
+<!-- Section H: Footer -->
 <p align="center">
-  <i>Let's build something impactful together.</i><br/>
-  <a href="mailto:snehith0315@gmail.com">📬 snehith0315@gmail.com</a>
+  <i>Let's connect and build something impactful together!</i>
+  <br/>
+  <strong> snehith0315@gmail.com </strong>
 </p>

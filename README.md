@@ -1,7 +1,4 @@
-<!-- Profile Views Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=snehith-budati&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+
 
 <!-- Section A: Animated Header -->
 <p align="center">

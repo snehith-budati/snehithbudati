@@ -71,20 +71,7 @@ Final-year **Computer Science undergrad** at SRM University-AP, specializing in 
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehithbudati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehithbudati&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=snehithbudati&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
